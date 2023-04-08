@@ -30,7 +30,7 @@ p {
     font-size: 48px;
 }
 
-.header h1 .seo {
+.header h1 .name {
     color: #d9dcd6;
 }
 
@@ -87,17 +87,8 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+/* grouped the selectors */
+.benefit-lead .benefit-brand .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
