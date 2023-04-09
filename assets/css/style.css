@@ -96,7 +96,7 @@ p {
     max-width: 150px;
 }
 
-.about-me, .work, .social-media-marketing {
+.about-me, .work, .contact-me {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -106,11 +106,11 @@ p {
 }
 
 /* made my application image bigger than about me picture */
-.about-me img, .work img, .social-media-marketing img {
+.about-me img, .work img, .contact-me img {
     max-height: 230px;
 }
 
-.about-me h2, .work h2, .social-media-marketing h2 {
+.about-me h2, .work h2, .contact-me h2 {
     margin-bottom: 20px;
     font-size: 50px;
 }
