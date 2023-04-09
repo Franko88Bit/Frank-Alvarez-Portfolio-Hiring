@@ -6,4 +6,6 @@ Making a portfolio for a hiring manager that includes my contact information,suc
 Screenshot of Frank Alvarez:
 ![Screenshot of Frank Alvarez](./frank_alvarez.png)
 
-Link to deployed application on local machine: http://127.0.0.1:5500/index.html
+Link to deployed, live application via github pages: https://franko88bit.github.io/Frank-Alvarez-Portfolio-Hiring/
+
+The index.html is in current folder, style.css is in ./assets/css folder and the images used in the website are in ./assets/images folder
