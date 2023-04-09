@@ -105,13 +105,14 @@ p {
     color: #ffffff;
 }
 
+/* made my application image bigger than about me picture */
 .about-me img, .work img, .social-media-marketing img {
-    max-height: 200px;
+    max-height: 230px;
 }
 
 .about-me h2, .work h2, .social-media-marketing h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 50px;
 }
 
 .footer {
