@@ -9,3 +9,5 @@ Screenshot of Frank Alvarez:
 Link to deployed, live application via github pages: https://franko88bit.github.io/Frank-Alvarez-Portfolio-Hiring/
 
 The index.html is in current folder, style.css is in ./assets/css folder and the images used in the website are in ./assets/images folder
+
+https://github.com/k-pineda/Group_3
